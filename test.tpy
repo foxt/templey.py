@@ -1,0 +1,11 @@
+hello, this is a test of |file:name.txt|, you can escape things too, watch \|file:name.txt|!
+
+the ip address that built this is |http:api.ipify.org|
+
+the arguments when building this were |procarg:all| and the python script is stored at |procarg:0|
+
+the output of cmd is |command:cmd|
+base64 of the file test.tpy is |b64:test.tpy|
+this files name on disk is |filename:|
+
+|file:layers.txt|

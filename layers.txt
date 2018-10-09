@@ -1,0 +1,1 @@
+you can put tags in other |file:name.txt| scripts like this, we're running from |filename:| and we've got things!
